@@ -1,0 +1,1 @@
+hello partner! I fixed all merge conflicts! :)
