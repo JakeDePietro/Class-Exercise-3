@@ -1,1 +1,1 @@
-Empty README
+Student 1 Says Hi!
