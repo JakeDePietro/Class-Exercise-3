@@ -1,1 +1,2 @@
-Student 1 Says Hi!
+Student 1 says hi!
+Student 2 says hi!
