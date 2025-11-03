@@ -1,1 +1,1 @@
-hello partner! I fixed all merge conflicts! :)
+dev1 says hello!
